@@ -1,2 +1,1 @@
-# tbpush
-tbpush
+https://github.com/qidiantiku/tbpush
